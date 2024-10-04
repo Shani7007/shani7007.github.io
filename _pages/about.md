@@ -7,7 +7,7 @@ subtitle: <a href='https://www.credly.com/badges/bbd1d036-2da9-4323-a268-79ce84e
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>+92-3006467649</p>
     <p>52, S Block, New Multan</p>
